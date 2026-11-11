@@ -37,7 +37,7 @@
 *   ▲ **[Vercel-Deploy](https://github.com/RootedVox/vercel-deploy)** - 适配 Vercel 的前后端代码。
 
 ## 🤝 参与贡献
-我们欢迎任何形式的贡献！在提交 Pull Request 之前，请务必阅读我们的 [贡献指南 (CONTRIBUTING.md)](./CONTRIBUTING.md)。
+我们欢迎任何形式的贡献！在提交 Pull Request 之前，请务必阅读我们的 [贡献指南 (CONTRIBUTING.md)](../CONTRIBUTING.md)。
 
 ## 🛡️ 开源协议
 本项目采用 [Apache License 2.0](../LICENSE) 开源协议。
