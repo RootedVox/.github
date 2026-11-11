@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.svg" width="120" alt="RootedVox Logo" />
+  <img src="./logo.svg" width="120" alt="RootedVox Logo" />
   <h1>RootedVox</h1>
   <p><b>Rooted in community, echoing the truth. (扎根社区，自由发声)</b></p>
   
