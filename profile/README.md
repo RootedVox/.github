@@ -8,7 +8,6 @@
     <a href="https://github.com/RootedVox/cf-deploy"><img src="https://img.shields.io/badge/Cloudflare-Pages%20%2B%20Workers-F38020?style=flat-square&logo=cloudflare" alt="Cloudflare"></a>
     <a href="https://github.com/RootedVox/vercel-deploy"><img src="https://img.shields.io/badge/Vercel-Frontend%20%2B%20Backend-000000?style=flat-square&logo=vercel" alt="Vercel"></a>
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License">
-    <img src="https://img.shields.io/badge/Made%20with-Claude%203.5-orange.svg?style=flat-square" alt="Claude">
   </p>
 </div>
 
