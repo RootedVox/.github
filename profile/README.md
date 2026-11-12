@@ -23,7 +23,7 @@
 *   **后端计算**:
     *   **Cloudflare Workers** (`functions/` 目录)
     *   **Vercel Serverless Functions** (`api/` 目录)
-    *   *底层通过“异构同源”方案，实现一套逻辑双端运行，包含主动探针与自动降级回退机制。*
+    *   *底层通过“异构同源”方案，实现一套逻辑双端运行，包含被动探针与自动降级回退机制。*
 *   **数据与鉴权**: 
     *   **Supabase**: 核心数据库与对象存储 (严格配置 RLS 行级安全策略)。
     *   **Keycloak**: 自托管 OIDC 身份认证系统，保障数据隐私与高度可定制化。
@@ -38,7 +38,7 @@
 ## 📚 开发者文档 (Documentation)
 深入了解 RootedVox 的设计与架构：
 
-*   📐 **[双活架构技术白皮书 (ADR-001)](../docs/multi-cloud-architecture.md)** - 详解多云环境下的异构同源、主动探针与数据一致性方案。
+*   📐 **[双活架构技术白皮书 (ADR-001)](../docs/multi-cloud-architecture.md)** - 详解多云环境下的异构同源、被动探针与数据一致性方案。
 *   🎨 **[品牌与视觉设计指南](../docs/brand-guidelines.md)** - 探讨 Logo 背后的极客隐喻、声波纹理与终端配色规范。
 
 ## 🤝 参与贡献
