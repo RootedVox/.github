@@ -13,6 +13,7 @@
 
 ## 📖 项目简介
 **RootedVox** 是一个独立的交流社区。我们致力于为大家提供一个自由、安全的交流平台。你可以在这里分享生活趣事、寻找志同道合的伙伴，或者发布互助信息。
+
 **网站链接** [RootedVox｜根源之声](https://rv.celestivast.com) 
 
 ## 🏗️ 架构设计 (Multi-Cloud Active-Active)
